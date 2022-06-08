@@ -1,5 +1,10 @@
 body{
     background-color: aquamarine;
-    background-color: aquamarine;
+    text-align: center;
 
+}
+h1{
+
+    text-align: center;
+    text-decoration: underline;
 }
